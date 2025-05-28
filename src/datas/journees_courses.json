@@ -1,0 +1,110 @@
+[
+	{
+		"journee_id": 1,
+		"societe_id": 1,
+		"societe_abrege": "CHB",
+		"societe_nom": "Comité Hippique de Bourail",
+		"journee_date": "2025-05-31T00:00:00.000Z",
+		"journee_statut": "Validée",
+		"hippodrome_nom": "Robert DUMMTE",
+		"hippodrome_commune": "Bourail",
+		"hippodrome_sens": "Droite",
+		"hippodrome_longueur": 1400
+	},
+	{
+		"journee_id": 2,
+		"societe_id": 3,
+		"societe_abrege": "SHCB",
+		"societe_nom": "Société Hippique des Courses de Boulouparis",
+		"journee_date": "2025-06-14T00:00:00.000Z",
+		"journee_statut": "Programmée",
+		"hippodrome_nom": "Raymond DEVAUD - André MERCIER",
+		"hippodrome_commune": "Boulouparis",
+		"hippodrome_sens": "Gauche",
+		"hippodrome_longueur": 1400
+	},
+	{
+		"journee_id": 3,
+		"societe_id": 2,
+		"societe_abrege": "SCHLF",
+		"societe_nom": "Société des Courses Hipppiques de La Foa",
+		"journee_date": "2025-06-28T00:00:00.000Z",
+		"journee_statut": "Programmée",
+		"hippodrome_nom": "BANU",
+		"hippodrome_commune": "La Foa",
+		"hippodrome_sens": "Droite",
+		"hippodrome_longueur": 1400
+	},
+	{
+		"journee_id": 4,
+		"societe_id": 1,
+		"societe_abrege": "CHB",
+		"societe_nom": "Comité Hippique de Bourail",
+		"journee_date": "2025-07-12T00:00:00.000Z",
+		"journee_statut": "Programmée",
+		"hippodrome_nom": "Robert DUMMTE",
+		"hippodrome_commune": "Bourail",
+		"hippodrome_sens": "Droite",
+		"hippodrome_longueur": 1400
+	},
+	{
+		"journee_id": 5,
+		"societe_id": 4,
+		"societe_abrege": "SSNC",
+		"societe_nom": "Société Sportive de la Nouvelle Calédonie",
+		"journee_date": "2025-07-27T00:00:00.000Z",
+		"journee_statut": "Programmée",
+		"hippodrome_nom": "Henry MILLIARD",
+		"hippodrome_commune": "Nouméa",
+		"hippodrome_sens": "Gauche",
+		"hippodrome_longueur": 1400
+	},
+	{
+		"journee_id": 6,
+		"societe_id": 4,
+		"societe_abrege": "SSNC",
+		"societe_nom": "Société Sportive de la Nouvelle Calédonie",
+		"journee_date": "2025-08-10T00:00:00.000Z",
+		"journee_statut": "Programmée",
+		"hippodrome_nom": "Henry MILLIARD",
+		"hippodrome_commune": "Nouméa",
+		"hippodrome_sens": "Gauche",
+		"hippodrome_longueur": 1400
+	},
+	{
+		"journee_id": 7,
+		"societe_id": 3,
+		"societe_abrege": "SHCB",
+		"societe_nom": "Société Hippique des Courses de Boulouparis",
+		"journee_date": "2025-08-23T00:00:00.000Z",
+		"journee_statut": "Programmée",
+		"hippodrome_nom": "Raymond DEVAUD - André MERCIER",
+		"hippodrome_commune": "Boulouparis",
+		"hippodrome_sens": "Gauche",
+		"hippodrome_longueur": 1400
+	},
+	{
+		"journee_id": 8,
+		"societe_id": 5,
+		"societe_abrege": "CHDN",
+		"societe_nom": "Comité Hippique Du Nord",
+		"journee_date": "2025-09-06T00:00:00.000Z",
+		"journee_statut": "Programmée",
+		"hippodrome_nom": "Robert DUMMTE",
+		"hippodrome_commune": "Bourail",
+		"hippodrome_sens": "Droite",
+		"hippodrome_longueur": 1400
+	},
+	{
+		"journee_id": 9,
+		"societe_id": 2,
+		"societe_abrege": "SCHLF",
+		"societe_nom": "Société des Courses Hipppiques de La Foa",
+		"journee_date": "2025-09-13T00:00:00.000Z",
+		"journee_statut": "Terminée",
+		"hippodrome_nom": "BANU",
+		"hippodrome_commune": "La Foa",
+		"hippodrome_sens": "Droite",
+		"hippodrome_longueur": 1400
+	}
+]

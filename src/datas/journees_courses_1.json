@@ -1,0 +1,14 @@
+[
+	{
+		"journee_id": 1,
+		"societe_id": 1,
+		"societe_abrege": "CHB",
+		"societe_nom": "Comité Hippique de Bourail",
+		"journee_date": "2025-05-31T00:00:00.000Z",
+		"journee_statut": "Validée",
+		"hippodrome_nom": "Robert DUMMTE",
+		"hippodrome_commune": "Bourail",
+		"hippodrome_sens": "Droite",
+		"hippodrome_longueur": 1400
+	}
+]

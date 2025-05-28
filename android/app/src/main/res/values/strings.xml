@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EQUINEO</string>
+    <string name="title_activity_main">EQUINEO</string>
+    <string name="package_name">app.equineo.nc</string>
+    <string name="custom_url_scheme">app.equineo.nc</string>
+</resources>

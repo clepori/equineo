@@ -1,0 +1,26 @@
+[
+	{
+		"course_id": 1,
+		"journee_id": 1,
+		"type_course": "Galop",
+		"type_unite_depart": "Corde",
+		"course_ordre": 1,
+		"course_type": "Course",
+		"course_numero": 1,
+		"course_code": "P1",
+		"course_nom": "Prix Graziella BABIN",
+		"course_heure": "2025-05-25T04:00:00.000Z",
+		"course_distance": 975,
+		"course_donnateur": "Province Sud",
+		"course_prix": 500000,
+		"course_condition1": "Pour tous poulains entiers, hongres et pouliches de 2 ans nés et élevés en NC.",
+		"course_condition2": "Poids : 56 kg.",
+		"course_pmu": 1,
+		"societe_abrege": "CHB",
+		"societe_nom": "Comité Hippique de Bourail",
+		"hippodrome_nom": "Robert DUMMTE",
+		"hippodrome_commune": "Bourail",
+		"hippodrome_sens": "Droite",
+		"hippodrome_longueur": 1400
+	}
+]
