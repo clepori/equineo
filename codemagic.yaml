@@ -6,6 +6,9 @@ workflows:
                                 APP_ID: com.exsie.equineo
                         node: 18.16.0
                         xcode: latest
+                        ios_signing:
+                                distribution_type: app_store
+                                bundle_identifier: $APP_ID
                 scripts:
                         - name: Install dependencies
                           script: |
@@ -25,3 +28,8 @@ workflows:
                 publishing:
                         app_store_connect:
                                 auth: api_key
+                                key_id: $APP_STORE_CONNECT_KEY_IDENTIFIER
+                                issuer_id: $APP_STORE_CONNECT_ISSUER_ID
+                                private_key: $APP_STORE_CONNECT_PRIVATE_KEY
+                                submit_to_testflight: true
+                                submit_to_app_store: true
