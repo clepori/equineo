@@ -1,0 +1,27 @@
+workflows:
+        ios-capacitor:
+                name: iOS Build for Capacitor App
+                environment:
+                        vars:
+                                APP_ID: com.exsie.equineo
+                        node: 18.16.0
+                        xcode: latest
+                scripts:
+                        - name: Install dependencies
+                          script: |
+                                  npm ci
+                        - name: Build Next.js app
+                          script: |
+                                  npm run build
+                        - name: Sync Capacitor
+                          script: |
+                                  npx cap sync ios
+                        - name: Prepare iOS build
+                          script: |
+                                  cd ios
+                                  xcodebuild -workspace App.xcworkspace -scheme App -configuration Release -derivedDataPath build
+                artifacts:
+                        - ios/build/**/*.ipa
+                publishing:
+                        app_store_connect:
+                                auth: api_key
